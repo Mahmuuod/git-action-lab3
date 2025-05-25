@@ -36,4 +36,4 @@ def test_transformation_on_valid_sample():
     assert windspeed == expected_windspeed, "❌ Windspeed mismatch"
 
     logging.info("✅ Transformation test passed.")
-test_transformation_on_valid_sample
+test_transformation_on_valid_sample()
