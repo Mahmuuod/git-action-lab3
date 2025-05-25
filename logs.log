@@ -1,0 +1,8 @@
+2025-05-25 13:08:58,451 - INFO - \u2705 Successfully fetched weather data for lat=30.0444, lon=31.2357
+2025-05-25 13:08:58,452 - INFO - \u2705 Transformed weather data for Cairo: {'city': 'Cairo', 'temperature_F': 98.6, 'windspeed': 9.1}
+2025-05-25 13:08:59,202 - INFO - \u2705 Successfully fetched weather data for lat=31.0364, lon=31.3807
+2025-05-25 13:08:59,203 - INFO - \u2705 Transformed weather data for Dakahlia: {'city': 'Dakahlia', 'temperature_F': 101.3, 'windspeed': 8.6}
+2025-05-25 13:09:00,070 - INFO - \u2705 Successfully fetched weather data for lat=30.0131, lon=31.2089
+2025-05-25 13:09:00,070 - INFO - \u2705 Transformed weather data for Giza: {'city': 'Giza', 'temperature_F': 98.96, 'windspeed': 9.6}
+2025-05-25 13:09:00,071 - INFO - \U0001f4ca Aggregated data: {'average_temperature_F': 99.62, 'average_windspeed': 9.1}
+2025-05-25 13:09:00,078 - INFO - \u2705 Average weather data saved to avg_weather.csv
